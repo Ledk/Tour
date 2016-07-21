@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#aaaaaa</color>
+    <color name="light_blue">#663399CC</color>
+
+    <color name="color_line">#E8E4DD</color>
+    <color name="color_tab_normal">#C2BBAE</color>
+    <color name="color_btn_bg">#fff</color>
+    <color name="color_theme">#FFE100</color>
+    <color name="color_themesub">#7F4802</color>
+    <color name="color_select_hint">#D6B963</color>
+    <color name="color_select_bg">#FFF9CC</color>
+    <color name="color_city">#AD7F2D</color>
+    <color name="color_line_iv">#FEE100</color>
+    <color name="color_listview_bg">#F6F2EA</color>
+
+    <color name="color_tv_gray">#ABA7A2</color>
+    <color name="color_tv_see">#C9C5C1</color>
+    <color name="color_load_bg">#F2F0ED</color>
+
+    <color name="activity_bg_color">#fffafafa</color>
+    <color name="top_category_bar_background">#ffeeeeee</color>
+    <color name="divider">#ffdddddd</color>
+    <color name="category_tab_text">#ff707070</color>
+    <color name="category_tab_text_dark">#fffafafa</color>
+    <color name="category_tab_highlight_text">#fffafafa</color>
+    <color name="category_tab_highlight_text_dark">#ffd43d3d</color>
+    <color name="category_tab_highlight_bg">#ffd43d3d</color>
+    <color name="category_tab_highlight_dark_bg">#fffafafa</color>
+    <color name="gray_d">#75746D</color>
+    <color name="color_blue_d">#777C73</color>
+    <color name="color_blue_s">#F1F6ED</color>
+    <color name="action_press" >#aaff0000</color>
+    <color name="action_normal">#44ff0000</color>
+    <color name="title_txt_color">#f1f1f3</color>
+    <color name="circle_color">#323a45</color>
+    <color name="ring_color">#14b9d6</color>
+    <color name="refresh_1">#15A0F5</color>
+    <color name="refresh_2">#2AB042</color>
+    <color name="blue_qian">#647896</color>
+
+</resources>
